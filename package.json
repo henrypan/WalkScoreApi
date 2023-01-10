@@ -9,8 +9,8 @@
   "author": "Douglas Wade <dougwade@redfin.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^0.21.0",
-    "koa-router": "^5.1.2",
+    "koa": "^1.0.0",
+    "koa-router": "^7.3.0",
     "koa-static": "^1.4.9",
     "q": "^1.4.1"
   }
